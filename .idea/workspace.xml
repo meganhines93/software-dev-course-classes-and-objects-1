@@ -6,7 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="813f5b22-d6d1-4814-ab9f-81c75705e2f6" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/StringUtilities.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/StringUtilities.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +24,77 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "meganhines93"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/meganhines93/software-dev-course-classes-and-objects-1.git",
+    "accountId": "a6c76052-6295-4ca5-9023-e6911debadd2"
+  }
+}]]></component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0028397903459632" />
+      <entry key="MS500" value="1.3218619603643882" />
+      <entry key="S2" value="2.338320779887969" />
+      <entry key="S5" value="4.238441709551413" />
+      <entry key="S10" value="7.249013742781132" />
+      <entry key="S30" value="16.843947886483498" />
+      <entry key="S60" value="26.996446777174032" />
+      <entry key="M2" value="43.77047972885628" />
+      <entry key="M5" value="73.5728373907797" />
+      <entry key="M10" value="92.54577360199299" />
+      <entry key="M15" value="100.5780397180943" />
+      <entry key="M30" value="109.67700333316462" />
+      <entry key="H1" value="114.67476098697337" />
+      <entry key="H2" value="117.29501773478289" />
+      <entry key="H4" value="118.63673408701435" />
+      <entry key="D1" value="119.7712766224328" />
+      <entry key="W1" value="119.96728798449429" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.01601434962064301" />
+      <entry key="MS500" value="0.5836442230096727" />
+      <entry key="S2" value="1.8665671323422257" />
+      <entry key="S5" value="3.8488836132885225" />
+      <entry key="S10" value="6.894217303975264" />
+      <entry key="S30" value="16.570242524329604" />
+      <entry key="S60" value="26.783773878744384" />
+      <entry key="M2" value="43.61079389462603" />
+      <entry key="M5" value="73.47628773510786" />
+      <entry key="M10" value="92.48776927577514" />
+      <entry key="M15" value="100.53668085009491" />
+      <entry key="M30" value="109.65481600509132" />
+      <entry key="H1" value="114.66325618950653" />
+      <entry key="H2" value="117.28915794063415" />
+      <entry key="H4" value="118.63377674175855" />
+      <entry key="D1" value="119.7707798673427" />
+      <entry key="W1" value="119.96721692416241" />
+    </decayedShown>
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -38,10 +110,21 @@
     "JUnit.org.example in software-dev-course-classes-and-objects-1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/mikel/projects/java/software-dev-course-classes-and-objects-1/pom.xml"
+    "last_opened_file_path": "C:/Users/megan/software-dev-course-classes-and-objects-1",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true"
   }
 }]]></component>
   <component name="RunManager" selected="JUnit.All in software-dev-course-classes-and-objects-1">
@@ -90,6 +173,14 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10968.63" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10968.63" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -100,5 +191,8 @@
       <updated>1738943649568</updated>
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
